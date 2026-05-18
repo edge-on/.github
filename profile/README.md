@@ -4,13 +4,6 @@
   <h1>EdgeOn</h1>
 
   <p><strong>Next-Generation, High-Performance Edge Cloud & CDN Infrastructure</strong></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/transport-QUIC-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/load_balancing-geo--aware-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" />
-  </p>
 </div>
 
 ---
